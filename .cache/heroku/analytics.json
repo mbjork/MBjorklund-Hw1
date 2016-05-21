@@ -1,0 +1,79 @@
+[
+  {
+    "command": "login",
+    "timestamp": 1463862525,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "go/1.6.2",
+    "status": 0,
+    "runtime": 20354,
+    "valid": true
+  },
+  {
+    "command": "keys:add",
+    "plugin": "heroku-apps",
+    "timestamp": 1463862556,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "2.1.1",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/6.2.0",
+    "status": 0,
+    "runtime": 176121,
+    "valid": true
+  },
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1463862744,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "2.1.1",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/6.2.0",
+    "status": 1,
+    "runtime": 1118,
+    "valid": true
+  },
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1463862816,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "2.1.1",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/6.2.0",
+    "status": 1,
+    "runtime": 1028,
+    "valid": true
+  },
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1463862839,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "2.1.1",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/6.2.0",
+    "status": 1,
+    "runtime": 989,
+    "valid": true
+  },
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1463862865,
+    "cli_version": "heroku-cli/5.2.7-d27a5e1 (linux-amd64) go1.6.2",
+    "version": "2.1.1",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/6.2.0",
+    "status": 0,
+    "runtime": 967,
+    "valid": true
+  }
+]
